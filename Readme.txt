@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Multi
+Template Name: Empregos
 Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
-Author: BootstrapMade.com
+Author: marcoantonio.com
 License: https://bootstrapmade.com/license/
